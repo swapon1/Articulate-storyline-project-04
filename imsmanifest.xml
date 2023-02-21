@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5eqnwCkK5xY" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Social Media</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">This is an interactive course. </langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Social_Media_ORG">
+    <organization identifier="Social_Media_ORG">
+      <title>Social Media</title>
+      <item identifier="Sports_SCO" isvisible="true" identifierref="__5eqnwCkK5xY_RES">
+        <title>Social Media</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5eqnwCkK5xY_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/64LBmXY30e3_44100_48_0.mp3" />
+      <file href="mobile/6Zpivs0ZGVR.png" />
+      <file href="mobile/63fO4VM6SHf.png" />
+      <file href="mobile/6SjqNRaC8Na.png" />
+      <file href="story_content/video_5a9GfdH2TiM_22_48_238x134.mp4" />
+      <file href="mobile/poster_65pwqmDdi9q_video_5a9GfdH2TiM_22_48_238x134.jpg" />
+      <file href="story_content/video_6S86S0YJetj_22_48_250x140.mp4" />
+      <file href="mobile/poster_6HQlMs0ih8a_video_6S86S0YJetj_22_48_250x140.jpg" />
+      <file href="story_content/video_6BFiwhMKADf_22_48_220x124.mp4" />
+      <file href="mobile/poster_684eu96PqC8_video_6BFiwhMKADf_22_48_220x124.jpg" />
+      <file href="story_content/video_6BFiwhMKADf_22_48_720x536.mp4" />
+      <file href="mobile/poster_5m8fnEOV3xQ_video_6BFiwhMKADf_22_48_720x536.jpg" />
+      <file href="mobile/64SyR9arlgC_M_810_810.png" />
+      <file href="story_content/video_6S86S0YJetj_22_48_720x536.mp4" />
+      <file href="mobile/poster_5tlhrcPEnVq_video_6S86S0YJetj_22_48_720x536.jpg" />
+      <file href="story_content/video_5a9GfdH2TiM_22_48_720x540.mp4" />
+      <file href="mobile/poster_6GH0Lz3Becb_video_5a9GfdH2TiM_22_48_720x540.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5gaGvjl8gcJ.png" />
+      <file href="mobile/Shape6nrTNxskbJy.png" />
+      <file href="mobile/Shape6ZTMp4wqetq.png" />
+      <file href="mobile/Shape5vlf4lx6o79.png" />
+      <file href="mobile/Shape6eY2RMiF2zr.png" />
+      <file href="mobile/Shape6Q1pKP91ctS.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5rri5NGyHV9.js" />
+      <file href="html5/data/js/5vO75wbLNzg.js" />
+      <file href="html5/data/js/5wbe4JAyPGe.js" />
+      <file href="html5/data/js/6Jho6QjqM7R.js" />
+      <file href="html5/data/js/6nY83Afc1aw.js" />
+      <file href="html5/data/js/6THvk6sd4rh.js" />
+      <file href="html5/data/js/6TtbGeQWBuO.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
